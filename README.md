@@ -14,6 +14,6 @@ The application is a desktop image puzzle game developed using:
 ## Group Members
 
 - Elyes kabada
-- 
+- Hai Tung Le (Max)
 - 
 - 
