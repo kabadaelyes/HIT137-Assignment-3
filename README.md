@@ -16,4 +16,4 @@ The application is a desktop image puzzle game developed using:
 - Elyes kabada
 - Le Hai Tung (Max)
 - Nathaniel Carolin
-- 
+- Samman Budhathoki
